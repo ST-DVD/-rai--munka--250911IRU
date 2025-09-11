@@ -1,40 +1,40 @@
-Vitorlázás tanítása 3. évfolyam
+ï»¿VitorlÃ¡zÃ¡s tanÃ­tÃ¡sa 3. Ã©vfolyam
 
 Tematika
 
-A vízi telep rendjének megtanítása.
-A hajók tárolásának megtanítása, betartása.
-Az eszközökre való igényesség megtanítása.
-Hajók precíz, biztonságos, önálló felszerelése.
-Alapvetõ haladási irányok megismerése:
-félszél
-hátszél
-háromnegyed szél
-negyed szél
-Manõverek megismerése:
-élesedés
-leejtés
-fordulás
-perdülés
-Jótanácsok
+A vÃ­zi telep rendjÃ©nek megtanÃ­tÃ¡sa.
+A hajÃ³k tÃ¡rolÃ¡sÃ¡nak megtanÃ­tÃ¡sa, betartÃ¡sa.
+Az eszkÃ¶zÃ¶kre valÃ³ igÃ©nyessÃ©g megtanÃ­tÃ¡sa.
+HajÃ³k precÃ­z, biztonsÃ¡gos, Ã¶nÃ¡llÃ³ felszerelÃ©se.
+AlapvetÅ‘ haladÃ¡si irÃ¡nyok megismerÃ©se:
+fÃ©lszÃ©l
+hÃ¡tszÃ©l
+hÃ¡romnegyed szÃ©l
+negyed szÃ©l
+ManÅ‘verek megismerÃ©se:
+Ã©lesedÃ©s
+leejtÃ©s
+fordulÃ¡s
+perdÃ¼lÃ©s
+JÃ³tanÃ¡csok
 
-A tanítás elsõ lépése mindig a szélirány meghatározásával történjen. Tanítsuk meg a gyerekeknek, milyen módon milyen eszközökkel lehet a szélirányt hozzávetõlegesen meghatározni. A haladási irányok elõtt a szélbeállás helyzetét ismertessük meg velük elõször. Minden egyes iránynak a nevét, a hajó haladásának legfontosabb ismérveit mutassuk be nekik. A hajó haladási irányára és a szél viszonyára igyekezzünk mindig olyan kulcsszavakat használni (hátszél: hátulról fújja a hajót a szél), amely segíti a tanulást.A gyakorlati bemutatás a már említett tároló kocsin lévõ felszerelt hajóval történjen. A tanítás során mindig térjünk ki a szél irányának és a haladási iránynak a viszonyára, valamint a vitorla beállítására is (pl.: hátszél: hátulról fúj a szél, teljesen kiengedem a vitorlát).
+A tanÃ­tÃ¡s elsÅ‘ lÃ©pÃ©se mindig a szÃ©lirÃ¡ny meghatÃ¡rozÃ¡sÃ¡val tÃ¶rtÃ©njen. TanÃ­tsuk meg a gyerekeknek, milyen mÃ³don, milyen eszkÃ¶zÃ¶kkel lehet a szÃ©lirÃ¡nyt hozzÃ¡vetÅ‘legesen meghatÃ¡rozni. A haladÃ¡si irÃ¡nyok elÅ‘tt a szÃ©lbeÃ¡llÃ¡s helyzetÃ©t ismertessÃ¼k meg velÃ¼k elÅ‘szÃ¶r. Minden egyes irÃ¡nynak a nevÃ©t, a hajÃ³ haladÃ¡sÃ¡nak legfontosabb ismÃ©rveit mutassuk be nekik. A hajÃ³ haladÃ¡si irÃ¡nyÃ¡ra Ã©s a szÃ©l viszonyÃ¡ra igyekezzÃ¼nk mindig olyan kulcsszavakat hasznÃ¡lni (hÃ¡tszÃ©l: hÃ¡tulrÃ³l fÃºjja a hajÃ³t a szÃ©l), amely segÃ­ti a tanulÃ¡st. A gyakorlati bemutatÃ¡s a mÃ¡r emlÃ­tett tÃ¡rolÃ³ kocsin lÃ©vÅ‘ felszerelt hajÃ³val tÃ¶rtÃ©njen. A tanÃ­tÃ¡s sorÃ¡n mindig tÃ©rjÃ¼nk ki a szÃ©l irÃ¡nyÃ¡nak Ã©s a haladÃ¡si irÃ¡nynak a viszonyÃ¡ra, valamint a vitorla beÃ¡llÃ­tÃ¡sÃ¡ra is (pl.: hÃ¡tszÃ©l: hÃ¡tulrÃ³l fÃºj a szÃ©l, teljesen kiengedem a vitorlÃ¡t).
 
-szelirany
-Csomó fajták
+szÃ©lirÃ¡ny
+CsomÃ³ fajtÃ¡k
 
-Alap csomók
-Csomó neve	Csomó képe
-Egyszerû csomó
-Takács csomó
-Palstek csomó
-Kikötõ nyolcas
+Alap csomÃ³k
+CsomÃ³ neve    CsomÃ³ kÃ©pe
+EgyszerÅ± csomÃ³
+TakÃ¡cs csomÃ³
+Palstek csomÃ³
+KikÃ¶tÅ‘ nyolcas
 
-Észrevételek
+Ã‰szrevÃ©telek
 
-generálj 2 bekezdésnyi szöveget! Formázd a minta szerint!
+generÃ¡lj 2 bekezdÃ©snyi szÃ¶veget! FormÃ¡zd a minta szerint!
 
 
-Forrás http://www.nupi.hu/download/sportiskola/modszertani/modszertan_vitorlazas.pdf új lapfülön nyíljon meg a böngészõbe
+ForrÃ¡s: http://www.nupi.hu/download/sportiskola/modszertani/modszertan_vitorlazas.pdf Ãºj lapfÃ¼lÃ¶n nyÃ­ljon meg a bÃ¶ngÃ©szÅ‘be
 
-Oldaltérkép: Oldalon belül a fõbb témakörök linkjei.
+OldaltÃ©rkÃ©p: Oldalon belÃ¼l a fÅ‘bb tÃ©makÃ¶rÃ¶k linkjei.
