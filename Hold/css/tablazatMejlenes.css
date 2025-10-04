@@ -1,0 +1,22 @@
+body{
+    /*háttérszín beállítás*/
+    background-color: grey;
+    /*betűszín beállítása*/
+    color: black;
+}
+table, td{
+    /*szegény, vastagság,szín, vonaltípusa egybefüggő vonal*/
+    
+      border: 2px black solid;
+      border-collapse: collapse;
+}
+    #ke {background: blue;
+    }
+    #pi {background: red;
+    }
+    #gre {background: green;
+    }
+    #sa {background: yellow;
+    }
+    #gre {background: green;
+}
